@@ -17,17 +17,17 @@ let dummyTrans = [
   {
     id: 2,
     text: 'Shirt',
-    amount: -100,
+    amount: -20,
   },
   {
     id: 3,
-    text: 'T-Shirt',
-    amount: -100,
+    text: 'laptop',
+    amount: -120,
   },
   {
     id: 4,
-    text: 'Freelancing',
-    amount: 500,
+    text: 'book',
+    amount: 100,
   },
 ];
 
